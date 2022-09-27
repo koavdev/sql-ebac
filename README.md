@@ -6,5 +6,7 @@ In this course, I've learned:
 - Partitioning;
 - Exploratory Data Analysis;
 - Storytelling <br>
+<br>
+
 Final project is available on Kaggle:
 https://kaggle.com/koavdev/
