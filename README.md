@@ -1,10 +1,10 @@
-# SQL for Data Analysis by EBAC
-Módulo 0 - Apresentação <br>
-Módulo 1 - Base de dados Linguagem SQL <br>
-Módulo 2 - Trabalhando com Tabelas <br>
-Módulo 3 - Selecionando e Ordenando <br>
-Módulo 4 - Filtrando e Seleção Condicional <br>
-Módulo 5 - Agregações <br>
-Módulo 6 - Trabalhando com Múltiplas Tabelas <br>
-Módulo 7 - SQL Avançado <br>
-Módulo 8 - Projeto Final
+## SQL for Data Analysis - EBAC Course
+In this course, I've learned:
+- DDL, DML and DQL;
+- Views and subqueries;
+- AWS Athena and S3 Bucket;
+- Partitioning;
+- Exploratory Data Analysis;
+- Storytelling
+Final project is available on Kaggle:
+https://kaggle.com/koavdev/
