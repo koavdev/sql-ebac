@@ -5,6 +5,6 @@ In this course, I've learned:
 - AWS Athena and S3 Bucket;
 - Partitioning;
 - Exploratory Data Analysis;
-- Storytelling
+- Storytelling <br>
 Final project is available on Kaggle:
 https://kaggle.com/koavdev/
